@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s0l3gkabck",
-  "description": "https://v2.scrimba.com/learn-react-c0e/~045",
+  "name": "meme-generator",
+  "description": "application",
   "scripts": {
     "watch": "webpack -w",
     "build": "webpack"
